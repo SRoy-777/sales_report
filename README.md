@@ -25,7 +25,7 @@ Created for performance tracking, the dashboard presents valuable insights to bo
 ## 🖼️ Screenshot
 ![Sales Dashboard](./Sales%20project%20SS.PNG)
 
-![Sales Dashboard Screenshot](./Maharastra%page-0001.JPG)
+![Sales Dashboard Screenshot](./Maharastra_page-0001.jpg)
 
 ---
 
